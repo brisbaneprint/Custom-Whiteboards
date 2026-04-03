@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="description" content="Discover how custom whiteboards enhance productivity, branding, and organisation in offices, schools, and businesses across Australia.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Custom Whiteboards: A Smart Solution for Productivity and Branding</title>
 </head>
 <body>
 
